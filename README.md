@@ -3,6 +3,8 @@
 
 -  I am an undergrad student at [Dr. D.Y. Patil Institute of Engineering, Management & Research](https://www.dypiemr.ac.in/) majoring in **Artificial Intelligence** & **Data Science**. I am interested in research in Deep Learning specifically **Deep Generative Models**, **Latency** and **robustness** for learning algorithms.
 -  I am also interested in algorithmic problem solving.
+-  Currently studying about **Adversarial Machine Learning**.
+
 
 &nbsp;
 
