@@ -2,7 +2,7 @@
 
 
 -  I am an undergrad student at [Dr. D.Y. Patil Institute of Engineering, Management & Research](https://www.dypiemr.ac.in/) majoring in **Artificial Intelligence** & **Data Science**. I am interested in research in Deep Learning specifically **Deep Generative Models**, **Latency** and **robustness** for learning algorithms.
--  I also like algorithmic problem solving ([LeetCode](https://leetcode.com/unnum_sykar1709/) / [StopStalk](https://www.stopstalk.com/user/profile/unnum_sykar1709))
+-  I also like algorithmic problem solving [[LeetCode](https://leetcode.com/unnum_sykar1709/) / [StopStalk](https://www.stopstalk.com/user/profile/unnum_sykar1709)]
 -  Currently studying about **Adversarial Machine Learning**.
 -  I'm best reached via [email](mailto:1709krsunny@gmail.com). I'm always open to interesting conversations. 
                
