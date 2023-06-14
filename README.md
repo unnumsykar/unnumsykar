@@ -1,4 +1,4 @@
-#### Hi, there 👋
+
 *trying to understand how hyperparameters work ?*
 -  i am an undergrad student at [Dr. D.Y. Patil Institute of Engineering, Management & Research](https://www.dypiemr.ac.in/) majoring in **artificial intelligence** & **data science**. i am interested in research in deep learning specifically **deep generative models**, **latency** and **robustness** for learning algorithms (currently working on language models).
 -  i also do algorithmic problem solving. <!---([leetcode](https://leetcode.com/unnum_sykar1709/)) <!--- / [stopstalk](https://www.stopstalk.com/user/profile/unnum_sykar1709)) -->
