@@ -1,6 +1,6 @@
 
 #### Contact: 
-<p>   •  <a href="https://www.ayushsaini.com/blog">LinkedIn</a> or <a href="mailto:1709krsunny@gmail.com">Email</a></p> 
+<p>   •  <a href="https://www.linkedin.com/in/unnumsykar/">LinkedIn</a> or <a href="mailto:1709krsunny@gmail.com">Email</a></p> 
 <p>   •  love to build <b>ai</b> products and solving <b>algorithmic</b> problems.</p>
 
 &nbsp;
