@@ -1,12 +1,17 @@
 
-#### Contact: 
-<p>   •  <a href="https://www.linkedin.com/in/unnumsykar/">LinkedIn</a> or <a href="mailto:1709krsunny@gmail.com">Email</a></p> 
+<b><ins>contact</ins> :</b> 
+<p>   •  <a href="https://www.linkedin.com/in/unnumsykar/">linkedIn</a> or <a href="mailto:1709krsunny@gmail.com">email</a></p>
+<b><ins>about</ins> :</b>
 <p>   •  love to build <b>ai</b> products and solving <b>algorithmic</b> problems.</p>
+<b><ins>tech stack</ins> :</b>
+<p>c/c++, python, sql, pytorch, tensorflow, keras, numpy, pandas, flask, git, perforce, jupyter-notebook, scikit-learn, colab, aws, azure, opengrok, openai, pinecone, vscode, huggingface, matplotlib, github, langchain </p>
+<b><ins>others</ins> :</b>
+<p>   •  <a href="https://unnumsykar.github.io/">personal</a> or <a href="https://twitter.com/unnumsykar">twitter</a> or <a href="https://leetcode.com/unnum_sykar1709/">leetcode</a> or <a href="https://www.stopstalk.com/user/profile/unnum_sykar1709">stopstalk</a> </p>
+
 
 &nbsp;
 <p>
-    <img src="https://media.giphy.com/media/u4KibgMsDLWM0/giphy.gif" alt="thanks brain" />
-
+    <img src="https://media.giphy.com/media/RywZsoVyGpHmE/giphy.gif" alt="gourmet shit" />
 </p>
 
 
