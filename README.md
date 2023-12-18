@@ -2,7 +2,7 @@
 <b><ins>contact</ins> :</b> 
 <p>   •  <a href="https://www.linkedin.com/in/unnumsykar/">linkedIn</a> or <a href="mailto:1709krsunny@gmail.com">email</a></p>
 <b><ins>about</ins> :</b>
-<p>   •  love to build <b>ai</b> products and solving <b>algorithmic</b> problems.</p>
+<p>   •  love to build ai products and solving algorithmic problems.</p>
 <b><ins>tech stack</ins> :</b>
 <p>c/c++, python, sql, pytorch, tensorflow, keras, numpy, pandas, flask, git, perforce, jupyter-notebook, scikit-learn, colab, aws, azure, opengrok, openai, pinecone, vscode, huggingface, matplotlib, github, langchain </p>
 <b><ins>others</ins> :</b>
