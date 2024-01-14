@@ -4,7 +4,7 @@
 <b><ins>about</ins> :</b>
 <p>   •  love to build ai products and solving algorithmic problems.</p>
 <b><ins>tech stack</ins> :</b>
-<p>c/c++, python, sql, pytorch, tensorflow, keras, numpy, pandas, flask, git, perforce, jupyter-notebook, scikit-learn, colab, aws, azure, opengrok, openai, pinecone, vscode, huggingface, matplotlib, github, langchain </p>
+<p>c/c++, python, sql, pytorch, tensorflow, keras, numpy, pandas, flask, git, perforce, jupyter-notebook, scikit-learn, colab, llama-index, azure, opengrok, openai, pinecone, vscode, huggingface, matplotlib, github, langchain </p>
 <b><ins>others</ins> :</b>
 <p>   •  <a href="https://unnumsykar.github.io/">personal</a> or <a href="https://leetcode.com/unnum_sykar1709/">leetcode</a> or <a href="https://www.stopstalk.com/user/profile/unnum_sykar1709">stopstalk</a> </p>
 
