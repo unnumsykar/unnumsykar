@@ -12,7 +12,6 @@
 &nbsp;
 <p>
     <img src="https://media.giphy.com/media/l2YWGfpVtxBSFYaxG/giphy.gif" alt="sam" />
-    <img src="https://media.giphy.com/media/jQLOzu7SoPmEg/giphy.gif" alt="pulp" />
 </p>
 
 
