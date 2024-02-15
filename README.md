@@ -11,7 +11,7 @@
 
 &nbsp;
 <p>
-    <img src="https://media.giphy.com/media/l2YWGfpVtxBSFYaxG/giphy.gif" alt="sam" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb21tZnBjbWdjZTYxczg1NGZ6M2xrc3FtMjdrNjFsZXNhdml6YThhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O3GktinC1IowM/giphy.gif" alt="sam" />
 </p>
 
 
